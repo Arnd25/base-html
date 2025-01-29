@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hobby {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    margin: 10px ;
+    padding: 30px;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+}
+.information{
+    font-size: 32px;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}

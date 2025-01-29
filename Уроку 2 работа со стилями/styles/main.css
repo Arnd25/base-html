@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: sans-serif;
+    background-color: blueviolet;
+    color: black;
+}
+
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 350px;
+    width: 450px;
+    height: 350px;
+    background-color: aquamarine;
+    margin-block-end: 40px;
+    padding: 10px;
+}
+
+.box--radius {
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+
+
+.box-text {
+    font-size: 75px;
+}
+
+.box-inner {
+width: 100%;
+height: 100%;
+background-color: crimson ;
+
+
+}

@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black ;
+
+}
+
+.about {
+    font-size: 32px;
+    color: gold;
+    margin-inline-start: 10px;
+}
+.information {
+    font-size: 18px;
+    color: gold;
+    margin-inline-start: 10px;
+}
+
